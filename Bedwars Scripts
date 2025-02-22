@@ -1,6 +1,0 @@
--- Best Bedwars script for PC (Voidware)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/vapevoidware/main/NewMainScript.lua", true))()
--------------------------------------------------------------------------------------------------------------------------------------------
--- Best Bedwars script for Mobile (Vxalware)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vxalware-bedwars-owner/Vxalware-Rewrite/refs/heads/main/Vxware-Bedwars.lua'))()
--------------------------------------------------------------------------------------------------------------------------------------------
